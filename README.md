@@ -34,22 +34,25 @@ This project implements an Inventory System for a Grocery Store using C++ with a
 
 # COMPLEXITY ANAYLISIS
 
-* FUNCTION - + insertItem
-+ deleteItem
-+ searchItem
-+  Row-major and Column-major displays 
-+  Sparse Storage Output
-* TIME COMPLEXITY - + O(1) average
-+ O(n) worst-case
-+ O(n)
-+ O(n)
-+ O(n)
-+ O(n)
-* SPACE COMPLEXITY - + O(1)
-+ O(1)
-+ O(1)
-+ O(n)
-+ O(k) where k = rarely restocked count
+* FUNCTION -
+     + insertItem
+     + deleteItem
+     + searchItem
+     +  Row-major and Column-major displays 
+     +  Sparse Storage Output
+* TIME COMPLEXITY 
+     + O(1) average
+     + O(n) worst-case
+     + O(n)
+     + O(n)
+     + O(n)
+     + O(n)
+* SPACE COMPLEXITY
+     + O(1)
+     + O(1)
+     + O(1)
+     + O(n)
+     + O(k) where k = rarely restocked count
 
 # TECHNOLOGIES USED 
 
