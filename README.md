@@ -20,7 +20,7 @@ This project implements an Inventory System for a Grocery Store using C++ with a
 
 * InventoryItem struct defining the item data.
 * InventorySystem class:
-       @ Core methods: insertItem(), deleteItem(), searchItem(), addItemRecord(), removeItemRecord(), searchByItem().   
+       ! Core methods: insertItem(), deleteItem(), searchItem(), addItemRecord(), removeItemRecord(), searchByItem().   
        @ Presentation methods for row-major and column-major data organization.
        @ optimizeSparseStorage() for sparse matrix representation.
 * main() function contains sample test cases demonstrating functionality.
