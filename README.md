@@ -60,5 +60,5 @@ This project implements an Inventory System for a Grocery Store using C++ with a
 * Command Line Interface for interaction
 
 # WORK DONE BY
-NIKHIL  SACHDEVA 
-BTech CSE AI/ML – Roll Number: 2401730197
+    NIKHIL  SACHDEVA 
+   + BTech CSE AI/ML – Roll Number: 2401730197
