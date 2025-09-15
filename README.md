@@ -20,8 +20,8 @@ This project implements an Inventory System for a Grocery Store using C++ with a
 
 * InventoryItem struct defining the item data.
 * InventorySystem class:
-  + Core methods: insertItem(), deleteItem(), searchItem(), addItemRecord(), removeItemRecord(), searchByItem().                                          ,
-  +  Presentation methods for row-major and column-major data organization.                                                                  ,
+  + Core methods: insertItem(), deleteItem(), searchItem(), addItemRecord(), removeItemRecord(), searchByItem().                                          
+  +  Presentation methods for row-major and column-major data organization.                                                                  
   + optimizeSparseStorage() for sparse matrix representation.
 * main() function contains sample test cases demonstrating functionality.
 
@@ -34,9 +34,22 @@ This project implements an Inventory System for a Grocery Store using C++ with a
 
 # COMPLEXITY ANAYLISIS
 
-* FUNCTION - insertItem , deleteItem , searchItem , Row-major and Column-major displays , Sparse Storage Output
-* TIME COMPLEXITY - O(1) average, O(n) worst-case ,  O(n) ,  O(n) ,  O(n) ,  O(n)
-* SPACE COMPLEXITY - O(1) , O(1) , O(1) , O(n) , O(k) where k = rarely restocked count
+* FUNCTION - + insertItem
++ deleteItem
++ searchItem
++  Row-major and Column-major displays 
++  Sparse Storage Output
+* TIME COMPLEXITY - + O(1) average
++ O(n) worst-case
++ O(n)
++ O(n)
++ O(n)
++ O(n)
+* SPACE COMPLEXITY - + O(1)
++ O(1)
++ O(1)
++ O(n)
++ O(k) where k = rarely restocked count
 
 # TECHNOLOGIES USED 
 
